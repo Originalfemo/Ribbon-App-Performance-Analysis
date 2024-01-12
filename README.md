@@ -6,6 +6,8 @@ The team consisting of myself, [Femi Tunde Adedipe](https://twitter.com/Original
 
 We carried out some research to provide industry benchmarks and compare the Ribbon app's numbers to the industry average and this was used to determine its success or not, opportunities for acquisition and engagement, and more. From our analysis, research, and presentation to the CEO of Socialblaze, we could shed light on the app's success as well as providing actionable insights to further enhance the growth of the app.
 
+You can read about the project on my [medium](https://medium.com/@f.jtundeadedipe/product-analytics-ribbon-app-performance-analysis-bcdf1d294a19) page.
+
 ### Problem Statement
 6 July, 2023, Socialblaze launched a new social media app called Ribbon. Prior to this, Socialblaze already had a successful social media app called InstantSnaps and the data of InstantSnaps users was linked to the Ribbon app.
 
